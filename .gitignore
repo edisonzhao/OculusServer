@@ -49,6 +49,7 @@ coverage.xml
 
 # Database
 *.sqlite3
+oculus/migrations/
 # Django stuff:
 *.log
 
